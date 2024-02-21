@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ProjectIMS\obj\Debug\ProjectIMS.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ProjectIMS\obj\Debug\ProjectIMS.InventoryManagementSystem.resources
+C:\Users\Asus\source\repos\ProjectIMS\obj\Debug\ProjectIMS.Properties.Resources.resources
+C:\Users\Asus\source\repos\ProjectIMS\obj\Debug\ProjectIMS.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ProjectIMS\obj\Debug\ProjectIMS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProjectIMS\bin\Debug\ProjectIMS.exe.config
+C:\Users\Asus\source\repos\ProjectIMS\bin\Debug\ProjectIMS.exe
+C:\Users\Asus\source\repos\ProjectIMS\bin\Debug\ProjectIMS.pdb
+C:\Users\Asus\source\repos\ProjectIMS\obj\Debug\ProjectIMS.exe
+C:\Users\Asus\source\repos\ProjectIMS\obj\Debug\ProjectIMS.pdb
